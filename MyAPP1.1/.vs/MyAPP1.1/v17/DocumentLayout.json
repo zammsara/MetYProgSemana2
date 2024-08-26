@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\labc205\\Desktop\\SEMANA2\\MetYProgSemana2\\MyAPP1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38B7B978-302D-4944-9411-44821EAA724F}|MyAPP1.1\\MyAPP1.1.csproj|c:\\users\\labc205\\desktop\\semana2\\metyprogsemana2\\myapp1.1\\myapp1.1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B7B978-302D-4944-9411-44821EAA724F}|MyAPP1.1\\MyAPP1.1.csproj|solutionrelative:myapp1.1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B7B978-302D-4944-9411-44821EAA724F}|MyAPP1.1\\MyAPP1.1.csproj|c:\\users\\labc205\\desktop\\semana2\\metyprogsemana2\\myapp1.1\\myapp1.1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38B7B978-302D-4944-9411-44821EAA724F}|MyAPP1.1\\MyAPP1.1.csproj|solutionrelative:myapp1.1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B7B978-302D-4944-9411-44821EAA724F}|MyAPP1.1\\MyAPP1.csproj|c:\\users\\labc205\\desktop\\semana2\\metyprogsemana2\\myapp1.1\\myapp1.1\\frmprincipal.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{38B7B978-302D-4944-9411-44821EAA724F}|MyAPP1.1\\MyAPP1.csproj|solutionrelative:myapp1.1\\frmprincipal.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B7B978-302D-4944-9411-44821EAA724F}|MyAPP1.1\\MyAPP1.csproj|c:\\users\\labc205\\desktop\\semana2\\metyprogsemana2\\myapp1.1\\myapp1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B7B978-302D-4944-9411-44821EAA724F}|MyAPP1.1\\MyAPP1.csproj|solutionrelative:myapp1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B7B978-302D-4944-9411-44821EAA724F}|MyAPP1.1\\MyAPP1.csproj|c:\\users\\labc205\\desktop\\semana2\\metyprogsemana2\\myapp1.1\\myapp1.1\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B7B978-302D-4944-9411-44821EAA724F}|MyAPP1.1\\MyAPP1.csproj|solutionrelative:myapp1.1\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPrincipal.resx",
+              "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SEMANA2\\MetYProgSemana2\\MyAPP1.1\\MyAPP1.1\\FrmPrincipal.resx",
+              "RelativeDocumentMoniker": "MyAPP1.1\\FrmPrincipal.resx",
+              "ToolTip": "C:\\Users\\labc205\\Desktop\\SEMANA2\\MetYProgSemana2\\MyAPP1.1\\MyAPP1.1\\FrmPrincipal.resx",
+              "RelativeToolTip": "MyAPP1.1\\FrmPrincipal.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-26T14:55:58.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SEMANA2\\MetYProgSemana2\\MyAPP1.1\\MyAPP1.1\\clases\\Persona.cs",
+              "RelativeDocumentMoniker": "MyAPP1.1\\clases\\Persona.cs",
+              "ToolTip": "C:\\Users\\labc205\\Desktop\\SEMANA2\\MetYProgSemana2\\MyAPP1.1\\MyAPP1.1\\clases\\Persona.cs",
+              "RelativeToolTip": "MyAPP1.1\\clases\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:48:13.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SEMANA2\\MetYProgSemana2\\MyAPP1.1\\MyAPP1.1\\Program.cs",
+              "RelativeDocumentMoniker": "MyAPP1.1\\Program.cs",
+              "ToolTip": "C:\\Users\\labc205\\Desktop\\SEMANA2\\MetYProgSemana2\\MyAPP1.1\\MyAPP1.1\\Program.cs",
+              "RelativeToolTip": "MyAPP1.1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:46:51.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SEMANA2\\MetYProgSemana2\\MyAPP1.1\\MyAPP1.1\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "MyAPP1.1\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\labc205\\Desktop\\SEMANA2\\MetYProgSemana2\\MyAPP1.1\\MyAPP1.1\\FrmPrincipal.cs",
+              "RelativeToolTip": "MyAPP1.1\\FrmPrincipal.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:34:09.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SEMANA2\\MetYProgSemana2\\MyAPP1.1\\MyAPP1.1\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "MyAPP1.1\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\labc205\\Desktop\\SEMANA2\\MetYProgSemana2\\MyAPP1.1\\MyAPP1.1\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MyAPP1.1\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:22:00.617Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

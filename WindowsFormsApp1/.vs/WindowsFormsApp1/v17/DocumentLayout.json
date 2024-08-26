@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\labc205\\Desktop\\SEMANA2\\MetYProgSemana2\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD74C11D-909F-4702-AF35-C83D58EA5EC8}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\labc205\\desktop\\semana2\\metyprogsemana2\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD74C11D-909F-4702-AF35-C83D58EA5EC8}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SEMANA2\\MetYProgSemana2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\labc205\\Desktop\\SEMANA2\\MetYProgSemana2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:58:28.563Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
